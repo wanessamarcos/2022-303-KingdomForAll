@@ -1,4 +1,4 @@
-<h1 align="center">2022-303-KingdomForAll</h1>
+<h1 align="center">2022-303-Little Pitchula</h1>
 <p align="center">
 <img src="https://img.shields.io/github/issues/TP-Coltec-UFMG/2022-303-KingdomForAll?color=pink"/>
 </p>
