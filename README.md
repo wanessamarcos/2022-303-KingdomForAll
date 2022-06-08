@@ -30,5 +30,12 @@
 <h2 align = "left">Tecnologias utilizadas</h2>
 <h2 align = "left">Pessoas Contribuidoras</h2>
 <h2 align = "left">Pessoas Desenvolvedoras</h2>
+<ul>
+  <li><a href="https://github.com/deblah">Deborah</a></li>
+  <li><a href="https://github.com/wanessamarcos">Wanessa</a></li>
+  <li><a href="https://github.com/eumariaw">Wanessa</a></li>
+ <li><a href="https://github.com/M0SELL1">Luiza</a></li>
+ <li><a href="https://github.com/isacccosta">Isabela</a></li>
+</ul>
 <h2 align = "left">Licença</h2>
 <h2 align = "left">Conclusão</h2>
