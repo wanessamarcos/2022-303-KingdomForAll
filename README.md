@@ -12,7 +12,6 @@
  <h2>Índice</h2> 
 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
@@ -27,6 +26,7 @@
 <h2 align = "left">Descrição do Projeto</h2>
 <h2 align = "left">Status do Projeto</h2>
 <h2 align = "left">Funcionalidades e Demonstração da Aplicação</h2>
+<h2 align = "left">Acesso ao Projeto</h2>
 <h2 align = "left">Tecnologias utilizadas</h2>
 <h2 align = "left">Pessoas Contribuidoras</h2>
 <h2 align = "left">Pessoas Desenvolvedoras</h2>
