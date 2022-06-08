@@ -22,12 +22,18 @@
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
 * [Conclusão](#conclusão)
+
 <h2 align = "left">Titulo e Imagem de capa</h2>
 <h2 align = "left">Descrição do Projeto</h2>
+<p>Jogo de plataforma com princesas da mitologia popular como personagens.</p>
 <h2 align = "left">Status do Projeto</h2>
+<p>Com menu em desenvolvimento</p>
 <h2 align = "left">Funcionalidades e Demonstração da Aplicação</h2>
 <h2 align = "left">Acesso ao Projeto</h2>
 <h2 align = "left">Tecnologias utilizadas</h2>
+<ul>
+ <li>Unity</li>
+</ul>
 <h2 align = "left">Pessoas Contribuidoras</h2>
 <h2 align = "left">Pessoas Desenvolvedoras</h2>
 <ul>
